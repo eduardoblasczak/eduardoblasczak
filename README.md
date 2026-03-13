@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/eduardoblasczak?style=social" alt="Seguidores no GitHub"/>
 </p>
 
-![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Gif de introdução](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 🗨️ **Sobre mim**
